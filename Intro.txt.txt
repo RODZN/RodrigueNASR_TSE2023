@@ -2,4 +2,6 @@ Nom:                            NASR
 Prénom:                         Rodrigue
 Âge:                            22
 Formation:                      Master 2 économétrie-statistiques parcours standard
-Années d'expérience en python:  3
+Années d'expérience en python:  2 années licence: programmation pour exercices Mathématiques
+				1 année master  : programmation pour analyse de données
+
